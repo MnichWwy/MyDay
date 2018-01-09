@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyDay</string>
+    <string name="facebook_app_id">161791761105902</string>
+    <string name="fb_login_protocol_scheme">fb161791761105902</string>
+    <string name="title_option_list">Options</string>
+    <string name="title_option_detail">Option Detail</string>
+    <string name="open_drawer">Open Drawer </string>
+    <string name="close_drawer">Close Drawer </string>
+
+</resources>
